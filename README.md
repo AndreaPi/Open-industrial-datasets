@@ -1,15 +1,15 @@
 # Open-industrial-datasets
-A collection of open datasets for industrial applications, divided by categories. PRs are welcome
+A collection of open datasets for industrial applications, divided by categories. PRs are welcome. Links to papers describing the datasets are only included if the dataset page doesn't link to the paper already
 
 ## Image processing
 http://dmery.ing.puc.cl/index.php/material/gdxray/
 
 ## Oil & Gas equipment
 ### Turbomachinery
-https://github.com/siemens/industrialbenchmark
+https://github.com/siemens/industrialbenchmark [paper]()
 https://www.openml.org/d/23383
 ### Boilers
-https://www.openml.org/d/41170 (only the `.arff` file format is working at the moment)
+https://www.openml.org/d/41170 (only the `.arff` file format is working at the moment) [paper](https://ieeexplore.ieee.org/ielx7/6287639/8274985/08501917.pdf?tp=&arnumber=8501917&isnumber=8274985)
 
 ## Anomaly detection in industrial time series
 https://itrust.sutd.edu.sg/research/dataset/dataset_characteristics/#swat
