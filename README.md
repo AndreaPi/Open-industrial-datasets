@@ -4,9 +4,12 @@ A collection of open datasets for industrial applications, divided by categories
 ## Image processing
 http://dmery.ing.puc.cl/index.php/material/gdxray/
 
-## Turbines and compression trains
+## Oil & Gas equipment
+### Turbomachinery
 https://github.com/siemens/industrialbenchmark
 https://www.openml.org/d/23383
+### Boilers
+https://www.openml.org/d/41170 (only the `.arff` file format is working at the moment)
 
 ## Anomaly detection in industrial time series
 https://itrust.sutd.edu.sg/research/dataset/dataset_characteristics/#swat
