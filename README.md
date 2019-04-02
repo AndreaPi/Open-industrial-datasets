@@ -31,3 +31,7 @@ A big list of Machine Learning datasets. They're not necessarily related to indu
 
 https://www.datasetlist.com/
 
+## UK National Data Repository
+The Data Repository of the UK Oil & Gas Authority, hosting a wealth of information about the UK Continental Shelf. Currently only a subset of the data is accessible to a wider public, but there are plans to extend the access also to the other data which are currently accessible only by petroleum licensee users.
+
+https://ndr.ogauthority.co.uk/dp/controller/PLEASE_LOGIN_PAGE
