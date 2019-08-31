@@ -8,8 +8,9 @@ http://dmery.ing.puc.cl/index.php/material/gdxray/
 
 ## Oil & Gas equipment
 ### Turbomachinery
-https://github.com/siemens/industrialbenchmark [paper]()
-https://www.openml.org/d/23383
+https://github.com/siemens/industrialbenchmark 
+
+- [paper](https://www.openml.org/d/23383)
 ### Boilers
 https://www.openml.org/d/41170 (only the `.arff` file format is working at the moment) 
 
