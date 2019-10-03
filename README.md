@@ -38,3 +38,8 @@ https://www.datasetlist.com/
 The Data Repository of the UK Oil & Gas Authority, hosting a wealth of information about the UK Continental Shelf. Currently only a subset of the data is accessible to a wider public, but there are plans to extend the access also to the other data which are currently accessible only by petroleum licensee users.
 
 https://ndr.ogauthority.co.uk/dp/controller/PLEASE_LOGIN_PAGE
+
+## Airbus AI Gym
+An impressive collection of industrial multivariate time series from the biggest European aircraft company. These datasets were used for competitions (all closed, now), regarding different learning task. In particular [this one](https://aigym.airbus.com/contest/5c336d2f40668b001f0e7d50) was about anomaly detection on real industrial data. The competitions are all closed, but it's possbile to contact Airbus in order to ask access to data.
+
+https://aigym.airbus.com/
