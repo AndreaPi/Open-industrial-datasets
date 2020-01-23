@@ -1,6 +1,11 @@
 # Open-industrial-datasets
 A collection of open datasets for industrial applications, divided by categories. PRs are welcome. Links to papers describing the datasets are only included if the dataset page doesn't link to the paper already
 
+## All datasets
+Google Dataset Search is now out of beta and it's one of the most powerful engines to search for datasets.
+
+https://datasetsearch.research.google.com/
+
 ## Computer vision
 A dataset of more than 19.400 X-ray images for the development, testing and evaluation of image analysis and computer vision algorithms
 
