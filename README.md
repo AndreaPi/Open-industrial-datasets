@@ -48,3 +48,14 @@ https://ndr.ogauthority.co.uk/dp/controller/PLEASE_LOGIN_PAGE
 An impressive collection of industrial multivariate time series from the biggest European aircraft company. These datasets were used for competitions (all closed, now), regarding different learning task. In particular [this one](https://aigym.airbus.com/contest/5c336d2f40668b001f0e7d50) was about anomaly detection on real industrial data. The competitions are all closed, but it's possbile to contact Airbus in order to ask access to data.
 
 https://aigym.airbus.com/
+
+## Power Systems
+### Electricity Supply Monitoring Initiative (ESMI) Initiative
+Minute-wise voltage data for some years (2014-2019) and several users in India. A '0' voltage reading means a power outage and missing data should be interpreted as unavailable data and not as interruption.
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CLLZZM
+
+### VSB Power Line Fault Detection Dataset
+This dataset is linked to a Kaggle competition to detect partial discharge patterns in signals acquired from these medium voltage overhead power lines. 
+
+https://www.kaggle.com/competitions/vsb-power-line-fault-detection/data
