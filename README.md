@@ -21,7 +21,9 @@ https://www.openml.org/d/41170 (only the `.arff` file format is working at the m
 
  - [paper](https://ieeexplore.ieee.org/ielx7/6287639/8274985/08501917.pdf?tp=&arnumber=8501917&isnumber=8274985)
 
-## Anomaly detection in industrial time series
+## Secure Water Treatment (SWaT) 
+https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/
+The actual dataset can be accessed by compiling this [request form](https://itrust.sutd.edu.sg/itrust-labs_datasets/)
 https://itrust.sutd.edu.sg/research/dataset/dataset_characteristics/#swat
  
  - [paper](https://www.researchgate.net/publication/305809559_A_Dataset_to_Support_Research_in_the_Design_of_Secure_Water_Treatment_Systems)
